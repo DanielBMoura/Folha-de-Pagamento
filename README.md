@@ -9,9 +9,9 @@ Solução completa para gestão salarial, automatizando cálculos trabalhistas c
 
 ## Funcionalidades ✨
 
-✅ **Cálculo automático de INSS**
-✅ **Cálculo progressivo de Imposto de Renda**
-✅ **Determinação do salário líquido**
+✅ **Cálculo automático de INSS**  
+✅ **Cálculo progressivo de Imposto de Renda**  
+✅ **Determinação do salário líquido**  
 ✅ **Formulário inteligente com formatação automática de documentos (CPF/RG) e valores monetários**
 
 ## Tecnologias Utilizadas 💻
