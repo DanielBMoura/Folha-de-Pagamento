@@ -1,10 +1,10 @@
 <div align="center">
-<h1 align="center">  Fintech Etec 📊 </h1>
+<h1 align="center">  Folha de pagamento 📊 </h1>
 
 ## Sobre o projeto 🔍
 
 <p align="center">
-Solução ocmpleta para gestão salarial, automatizando cálculos trabalhistas com precisão e eficiência.
+Solução completa para gestão salarial, automatizando cálculos trabalhistas com precisão e eficiência.
 </p>
 
 ## Funcionalidades ✨
@@ -27,7 +27,7 @@ Solução ocmpleta para gestão salarial, automatizando cálculos trabalhistas c
 Para clonar o repositório, execute o seguinte comando:
 
 ```bash
-git clone https://github.com/DanielBMoura/Fintech-User.git
+git clone https://github.com/DanielBMoura/Folha-de-Pagamento.git
 ```
 
 ## Considerações finais 📝
