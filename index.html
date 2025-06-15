@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade DOM</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="form-container">
+        <h1>Folha de pagamento</h1>
+        <form>
+            <label for="nome">Nome:</label>
+            <input type="text" class="nome" name="nome" placeholder="Digite seu nome por completo">
+
+            <label for="rg">RG:</label>
+            <input type="text" class="rg" name="rg" placeholder="00.000.000-0">
+
+            <label for="cpf">CPF:</label>
+            <input type="text" class="cpf" name="cpf" placeholder="000.000.000-00">
+
+            <label for="salario">Salário:</label>
+            <input type="text" class="salario" name="salario" placeholder="R$ 1.234,56">
+
+            <label for="vale-transporte">Vale Transporte:</label>
+            <input type="text" class="valeTransporte" name="vale-transporte" placeholder="R$ 100,00">
+        </form>
+        <button onclick="enviarForm()">Calcular</button>
+        <hr>
+        <div id="payroll-summary" class="summary-container"></div>
+            <h2>Resumo da Folha de Pagamento</h2>
+            <p><strong>Nome:</strong> <span class="nomeSpan"></span></p>
+            <p><strong>RG:</strong> <span class="RGSpan"></span></p>
+            <p><strong>CPF:</strong> <span class="CPFSpan"></span></p>
+            <p><strong>Salário Bruto:</strong><span class="SalarioBSpan"></span></p>
+            <p><strong>INSS(8%):</strong><span class="INSSSpan"></span></p>
+            <p><strong>IR(15% acima de R$5.000,00):</strong><span class="IRSpan"></span></p>
+            <p><strong>Vale Transporte:</strong><span class="ValeSpan"></span></p>
+            <p><strong>Salário Líquido:</strong><span class="SalarioLSpan"></span></p>
+        </div>
+    </div>
+</body>
+<script src="index.js"></script>
+</html>
