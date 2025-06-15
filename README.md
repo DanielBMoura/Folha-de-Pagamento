@@ -4,7 +4,8 @@
 ## Sobre o projeto 🔍
 
 <p align="center">
-Solução completa para gestão salarial, automatizando cálculos trabalhistas com precisão e eficiência.
+Solução completa para gestão salarial, automatizando cálculos trabalhistas com precisão e eficiência.<br>
+👉 Link do projeto: https://danielbmoura.github.io/Folha-de-Pagamento/
 </p>
 
 ## Funcionalidades ✨
