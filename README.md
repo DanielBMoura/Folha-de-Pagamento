@@ -18,7 +18,7 @@ Solução completa para gestão salarial, automatizando cálculos trabalhistas c
 
 **HTML**: Linguagem de marcação utilizada para estruturar a interface da aplicação.
 
-**CSS**: Utilizado para estilizar os elementos da página, garantindo um visual atrativo e responsivo.  
+**CSS**: Utilizado para estilizar os elementos da página, garantindo um visual atrativo.  
 
 **Javascript**: Aplicado para adicionar interatividade à página, como as animações e funcionalidades dinâmicas.  
 
